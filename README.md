@@ -21,7 +21,7 @@ responses:
 * Fish shell 
 * PHP upgrade to version 8.1 
 * Free Download Manager 
-* WP Loca Development 
+* WP Local Development 
 * Deja Dup
 
 # Prerequisites
