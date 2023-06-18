@@ -7,22 +7,22 @@ responses:
 
 # Softwares
 
-### Chrome 
-###  Brave 
-###  VS Code 
-###  Docker Desktop & all its Engines (starts on boot)
-###  Git 
-###  GNOME Tweak Tool 
-###  npm 
-###  DDEV 
-###  Node.js 
-###  Lando 
-###  Homebrew
-###  Fish shell 
-###  PHP upgrade to version 8.1 
-###  Free Download Manager 
-###  WP Loca Development 
-###  Deja Dup
+* Chrome 
+* Brave 
+* VS Code 
+* Docker Desktop & all its Engines (starts on boot)
+* Git 
+* GNOME Tweak Tool 
+* npm 
+* DDEV 
+* Node.js 
+* Lando 
+* Homebrew
+* Fish shell 
+* PHP upgrade to version 8.1 
+* Free Download Manager 
+* WP Loca Development 
+* Deja Dup
 
 # Prerequisites
 Prerequisites Ubuntu operating system (Debian Based OS) Internet
