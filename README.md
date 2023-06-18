@@ -35,10 +35,10 @@ Open a terminal and navigate to the downloaded directory.
 Make the installation script executable by running the following
 command:
 
-bash Copy code chmod +x install.sh Run the script by executing the
+bash Copy code `chmod +x install.sh` Run the script by executing the
 following command:
 
-bash Copy code ./install.sh The script will start installing the
+bash Copy code `./install.sh` The script will start installing the
 software packages automatically.
 
 # After
