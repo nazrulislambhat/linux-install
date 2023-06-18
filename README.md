@@ -1,7 +1,5 @@
-Certainly! Here's a generated README file for the script:
-
-Ubuntu/POP!_OS Software Installation Script
-This script automates the installation of various software packages on Ubuntu. It installs the following software with the -y flag for automatic yes responses:
+buntu/POP!\_OS Software Installation Script
+This script automates the installation of various software packages on Ubuntu/POP!\_OS. It installs the following software with the -y flag for automatic yes responses:
 
 Chrome
 Brave
@@ -20,11 +18,12 @@ PHP upgrade to version 8.1
 Free Download Manager
 WP Local Development
 Deja Dup
+
 Prerequisites
-Ubuntu operating system
+Ubuntu operating system (Debian Based OS)
 Internet connection
 Usage
-Clone or download this repository to your Ubuntu machine.
+Clone or download this repository to your Ubuntu/POP!\_OS machine.
 
 Open a terminal and navigate to the downloaded directory.
 
@@ -32,12 +31,12 @@ Make the installation script executable by running the following command:
 
 bash
 Copy code
-chmod +x install_software.sh
+chmod +x install.sh
 Run the script by executing the following command:
 
 bash
 Copy code
-./install_software.sh
+./install.sh
 The script will start installing the software packages automatically.
 
 Once the installation is complete, you will see a completion message.
