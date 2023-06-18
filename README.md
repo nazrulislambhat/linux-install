@@ -1,3 +1,5 @@
+## Info
+
 Ubuntu/POP!\_OS Software Installation Script This script automates the
 installation of various software packages on Ubuntu/POP!\_OS. It
 installs the following software with the -y flag for automatic yes
